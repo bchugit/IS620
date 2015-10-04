@@ -5,8 +5,8 @@ Davis Southern Club Women
 Shows how to make unipartite projections of the graph and compute the
 properties of those graphs.
 
-These data were collected by Davis et al
-in the 1930s.  They represent observed attendance at 14 social events
+These data were collected by Davis et al in the 1930s.  
+They represent observed attendance at 14 social events
 by 18 Southern women.  The graph is bipartite (clubs, women).
 
 Data from:
